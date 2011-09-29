@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ticketDeCaisse>
+	<articles>
+		<article>
+			<libelle>Carotte</libelle>
+			<quantite>6</quantite>
+			<prixUnite>0,80</prixUnite>
+		</article>
+		<article>
+			<libelle>Baguette</libelle>
+			<quantite>2</quantite>
+			<prixUnite>0,60</prixUnite>
+		</article>
+		<article>
+			<libelle>Pomme de terre</libelle>
+			<quantite>3</quantite>
+			<prixUnite>0,37</prixUnite>
+		</article>
+		<article>
+			<libelle>Oignon</libelle>
+			<quantite>1</quantite>
+			<prixUnite>0,58</prixUnite>
+		</article>
+		<article>
+			<libelle>Dentifrice</libelle>
+			<quantite>1</quantite>
+			<prixUnite>3,80</prixUnite>
+		</article>
+		<article>
+			<libelle>Fromage</libelle>
+			<quantite>1</quantite>
+			<prixUnite>2,15</prixUnite>
+		</article>
+	</articles>
+	<client>
+		<numeroClient>31405434</numeroClient>
+		<nom>Meunier</nom>
+		<prenom>Dominique</prenom>
+	</client>
+</ticketDeCaisse>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ticketDeCaisse>
+	<articles>
+		<article>
+			<libelle>Laitue</libelle>
+			<quantite>1</quantite>
+			<prix>1,80</prix>
+		</article>
+		<article>
+			<libelle>Tomate</libelle>
+			<quantite>6</quantite>
+			<prix>0,98</prix>
+		</article>
+		<article>
+			<libelle>Yaourt</libelle>
+			<quantite>4</quantite>
+			<prix>0,85</prix>
+		</article>
+		<article>
+			<libelle>Bouteille d'eau</libelle>
+			<quantite>6</quantite>
+			<prix>0,50</prix>
+		</article>
+		<article>
+			<libelle>Sachet de pâtes</libelle>
+			<quantite>1</quantite>
+			<prix>1,75</prix>
+		</article>
+		<article>
+			<libelle>Parmesan</libelle>
+			<quantite>1</quantite>
+			<prix>2,38</prix>
+		</article>
+		<article>
+			<libelle>Liquide vaisselle</libelle>
+			<quantite>1</quantite>
+			<prix>4,5</prix>
+		</article>
+		<article>
+			<libelle>Eponge</libelle>
+			<quantite>1</quantite>
+			<prix>3</prix>
+		</article>
+	</articles>
+	<client>
+		<numeroClient>45321834</numeroClient>
+		<nom>Durand</nom>
+		<prenom>Sylvie</prenom>
+	</client>
+</ticketDeCaisse>
